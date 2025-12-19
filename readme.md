@@ -9,6 +9,19 @@ git commit -m "msg"
 Enter
 git push origin main
 
+
+#Method 3
+```
+1. git beanch  --> hoe many branch in repo git branch <branch name>
+
+2. git branch <branch name>
+ex. git branch development
+
+3.git checkout <branch name>
+ex.git checkout development
+
+```
+
 #tailwind css clr
 <h1>Website</h1>
 1. copy - npm install tailwindcss @tailwindcss/cli
@@ -17,6 +30,8 @@ git push origin main
 
 
 <h1>vs scode</h1>
+
+```
 1. open terminal <br>
 2. paste cmd <br>
 3.Enter <br>
@@ -28,4 +43,5 @@ git push origin main
       "dev" : "npx @tailwindcss/cli -i ./input.css -o ./output.css --watch" 
     
   }
+```
   8. npm run start

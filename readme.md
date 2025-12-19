@@ -30,6 +30,8 @@ ex.git checkout development
 
 
 <h1>vs scode</h1>
+
+```
 1. open terminal <br>
 2. paste cmd <br>
 3.Enter <br>
@@ -41,4 +43,5 @@ ex.git checkout development
       "dev" : "npx @tailwindcss/cli -i ./input.css -o ./output.css --watch" 
     
   }
+```
   8. npm run start

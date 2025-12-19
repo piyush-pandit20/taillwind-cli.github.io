@@ -9,6 +9,19 @@ git commit -m "msg"
 Enter
 git push origin main
 
+
+#Method 3
+```
+1. git beanch  --> hoe many branch in repo git branch <branch name>
+
+2. git branch <branch name>
+ex. git branch development
+
+3.git checkout <branch name>
+ex.git checkout development
+
+```
+
 #tailwind css clr
 <h1>Website</h1>
 1. copy - npm install tailwindcss @tailwindcss/cli
